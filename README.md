@@ -5,4 +5,4 @@ Now I'm looking for a web developer position, but I don't waste my time because 
 - 🌱 I’m currently learning HTML5, CSS, SASS, JavaScript, React, Node JS y SQLite
 - 👯 I’m looking to collaborate on anything related with this world
 - 📫 You can reach me in my profile on LinkedIn: https://www.linkedin.com/in/elena-palomar/
-- ⚡ Fun fact: One thing I want to do in my life is "hunt" a tornado
+- ⚡ Fun fact: I quite enjoy discussing science related topics
